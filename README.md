@@ -1,0 +1,2 @@
+# trivialScriptExamples
+Tutorial exercise
